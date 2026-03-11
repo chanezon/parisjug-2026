@@ -8,15 +8,18 @@ Si tu n'as pas acces a un modele multimodal, utilise le fichier jug-paris-cover.
 Utilises le titre de la presentation, et comme speakers: Patrick Chanezon, VP Developer Relations, Microsoft et Dr Alexis Lecluze, Médecin généraliste.
 
 Cree cette presentation en anglais.
-J'ai ecrit un blog post sur la transformation du metier de developpeur a https://blog.chanezon.com/2025/11/07/devrel-evolution-with-ai-agents.html
-Utilise ce blog post comme base pour la transformation du metier de developpeur.
 
 After the agenda slide add a slide titled "Teaching an old dog new tricks" with illustration image images/linkedin-dog.jpg 
 
+Premiere section: un Docteur qui utilise l'AI pour coder ses propres applications et transformer son metier.
 Lis les emails que j'ai recu du Dr Alexis Lecluze sur ses cas d'utilisation de l'AI et crees trois slides.
 Slide 1 sur Alexis, trouve so bio et photo sur LinkedIn et mets le lien vers son cabinet.
 Slide 2 titree: un exemple de medecin utilisant l'AI pour coder avec les exemples fournis par Alexis. Inclue l'image alexis-vibe-code.png dans cette slide, et les liens fournis par Alexis.
 Slide 3 sur le papier scrible et psychiatrie.
+
+J'ai ecrit un blog post sur la transformation du metier de developpeur a https://blog.chanezon.com/2025/11/07/devrel-evolution-with-ai-agents.html
+Utilise ce blog post comme base pour expliquer la transformation du metier de developpeur, specialement la partie intitulee "Developers become managers of AI Agents
+". Lis les articles references dans le post pour creer des slides au sujet des plus importants.
 
 add a slide about Karpathy's post https://x.com/karpathy/status/2015883857489522876?s=20 quoting the TL;DR section including the url of the Tweet with a hyperlink and image images/karpathy-x.jpg. Title of the slide is "With AI Coding Agents getting better, the role of Developer is changing now". Use playwright you get to the tweet in the browser and extract the TL;DR from the tweet to use in the slide.
 
@@ -24,6 +27,11 @@ add a slide titled "AI Agent's rate of progress is accelerating" with images/sta
 
 add a slide about Knuth quote in the same block: "“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do”, with image of Knuth's book cover.
 
+Add a section about the impact of AI for early in career developers.
+One slide with the finding from Canaries in the Coal Mine? by Brynjolfsson et al., including the graphics cited in my blog post.
+Then one slide on Scott Hanselman and Mark Russinovich preceptorship program described in https://dl.acm.org/doi/abs/10.1145/3779312
+
+Add a section about the AI Fatigue effect.
 Pour l'effet de fatigue de l'AI cree une slide par article pour les articles ci-dessous:
 https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
 https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163
