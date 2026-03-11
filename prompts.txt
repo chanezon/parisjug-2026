@@ -19,7 +19,7 @@ Slide 3 sur le papier scrible et psychiatrie.
 
 J'ai ecrit un blog post sur la transformation du metier de developpeur a https://blog.chanezon.com/2025/11/07/devrel-evolution-with-ai-agents.html
 Utilise ce blog post comme base pour expliquer la transformation du metier de developpeur, specialement la partie intitulee "Developers become managers of AI Agents
-". Lis les articles references dans le post pour creer des slides au sujet des plus importants.
+". Lis les articles references dans le post pour creer des slides au sujet des plus importants, comme frontier firm, what got you here won't get you there.
 
 add a slide about Karpathy's post https://x.com/karpathy/status/2015883857489522876?s=20 quoting the TL;DR section including the url of the Tweet with a hyperlink and image images/karpathy-x.jpg. Title of the slide is "With AI Coding Agents getting better, the role of Developer is changing now". Use playwright you get to the tweet in the browser and extract the TL;DR from the tweet to use in the slide.
 
